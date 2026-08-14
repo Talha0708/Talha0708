@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Talha Belal 👋</h1>
-<h3 align="center">Junior Full-Stack Web Developer | Founder & AI Moderator @ Thirdwave Future Tech Ltd.</h3>
+<h3 align="center">Junior Full-Stack Web Developer | Founder @ Thirdwave Future Tech Ltd.</h3>
 
 <p align="center">
   I am a Computer Science and Engineering undergraduate at Primeasia University, specializing in the MERN stack, Next.js, and modern web architectures. I am passionate about building scalable e-commerce platforms, intelligent CRM systems, and delivering seamless user experiences.
@@ -9,11 +9,11 @@
 
 ### 🚀 Featured Projects
 
+* ⚙️ **[Thirdwave CRM & AI Moderator](https://thirdwave-crm-cu8c.vercel.app/)**
+    * A custom CRM architecture featuring built-in AI moderation tools, designed for robust business management and intelligent operational logistics.
 * 🛒 **[Aurelian Waves (E-commerce Platform)](https://aurelian-ecommerce.vercel.app/)**
     * A fully functional, modern e-commerce application designed for optimal retail operations and customer experience. 
     * Connect with the brand: **[Facebook Page](https://www.facebook.com/aurelianwaves)**
-* ⚙️ **[Thirdwave CRM](https://thirdwave-crm-cu8c.vercel.app/)**
-    * A custom CRM architecture featuring AI moderation tools, tailored for robust business management and operational logistics.
 
 ---
 
