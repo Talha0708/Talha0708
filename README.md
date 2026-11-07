@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Talha%20Belal&fontSize=70&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Building%20the%20future%20of%20commerce&descAlignY=60&descSize=22&descAlign=50" width="100%" alt="Talha Belal — Building the future of commerce" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7BE3D8&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Web+Developer;AI+%26+Commerce+Infrastructure+Engineer;Founder+%40+Thirdwave+Future+Tech+Ltd." alt="Animated roles: Junior Full-Stack Web Developer, AI & Commerce Infrastructure Engineer, Founder at Thirdwave Future Tech Ltd." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7BE3D8&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Web+Developer;AI+%26+Commerce+Infrastructure+Engineer;Building+EdTech+%26+Commerce+Products" alt="Animated roles: Junior Full-Stack Web Developer, AI and Commerce Infrastructure Engineer, Building EdTech and Commerce Products." />
 
 <p align="center">
   <i>Computer Science &amp; Engineering undergraduate · Primeasia University</i>
@@ -28,7 +28,7 @@ I also build **accessible EdTech**: free, installable language-learning PWAs des
 
 ```txt
 const talha = {
-    role: "Founder @ Thirdwave Future Tech Ltd.",
+    role: "Full-Stack Web Developer",
     education: "CSE Undergraduate, Primeasia University",
     stack: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
     focus: ["AI Automation", "E-commerce", "API Integrations", "CRM Architecture", "EdTech & PWAs"],
@@ -43,7 +43,7 @@ const talha = {
 
 | | |
 |---|---|
-| 🔭 **Now** | Building scalable web platforms and AI automation tools at **Thirdwave Future Tech Ltd.**, plus free language-learning PWAs: **Banglay German** and **Fluently** |
+| 🔭 **Now** | Building full-stack web platforms and AI automation tools, plus free language-learning PWAs: **Banglay German** and **Fluently** |
 | 🧠 **Expertise** | High-conversion e-commerce · F-commerce automation · AI chatbots · CRM architecture · RESTful API integrations · Progressive Web Apps · EdTech platforms |
 | 🌱 **Learning** | Advanced Next.js patterns · OpenAI and LLM integrations · Webhooks · Secure backend routing |
 | ⚡ **Strength** | Turning complex physical retail showroom operations into seamless digital workflows |
@@ -72,16 +72,17 @@ My fundamentals in logic, architecture, and problem-solving are solid. What I ke
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Thirdwave CRM &amp; AI Moderator</h3>
+      <p align="center"><i>Personal project</i></p>
       <p align="center">
         <a href="https://thirdwave-crm-cu8c.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Project-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Thirdwave CRM live project" />
         </a>
       </p>
-      <p>A next-generation CRM built for modern commerce. It tackles core operational bottlenecks by integrating the <b>Meta Graph API</b> with custom AI intent parsing.</p>
+      <p>A CRM prototype that integrates the <b>Meta Graph API</b> with AI-based intent parsing for incoming customer messages.</p>
       <ul>
-        <li><b>AI:</b> Autonomous intent parsing, running 24/7.</li>
-        <li><b>Integrations:</b> Direct Meta and WhatsApp webhooks.</li>
-        <li><b>Stack:</b> Next.js 14, MongoDB, Node.js, Vercel Edge.</li>
+        <li><b>AI:</b> Intent parsing for incoming messages.</li>
+        <li><b>Integrations:</b> Meta and WhatsApp webhooks.</li>
+        <li><b>Stack:</b> Next.js 14, MongoDB, Node.js, Vercel.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
