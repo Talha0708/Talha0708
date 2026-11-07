@@ -22,14 +22,14 @@
 
 ## 🦅&nbsp; About Me
 
-I'm a Computer Science and Engineering undergraduate specializing in full-stack web development with the **MERN stack** and **Next.js**. Combining a rigorous academic foundation with hands-on experience in retail operations, I build **business engines, not just websites** — engineering high-performance commerce infrastructure, eliminating lead leakage, and creating intelligent, automated customer experiences through advanced AI and robust API integrations.
+I'm a Computer Science and Engineering undergraduate specializing in full-stack web development with the **MERN stack** and **Next.js**. Combining a rigorous academic foundation with hands-on experience in retail operations, I build **business engines, not just websites** — engineering high-performance commerce infrastructure, eliminating lead leakage, and creating intelligent, automated customer experiences through advanced AI and robust API integrations. I also build **accessible EdTech products** — free, installable language-learning PWAs for learners who are often overlooked.
 
 ```txt
 const talha = {
     role: "Founder @ Thirdwave Future Tech Ltd.",
     education: "CSE Undergraduate, Primeasia University",
     stack: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
-    focus: ["AI Automation", "E-commerce", "API Integrations", "CRM Architecture"],
+    focus: ["AI Automation", "E-commerce", "API Integrations", "CRM Architecture", "EdTech & PWAs"],
     mission: "Turn messy retail workflows into clean, automated digital systems",
     currentlyLearning: ["Advanced Next.js", "LLM Orchestration", "Secure Backend Routing"]
 };
@@ -37,11 +37,11 @@ const talha = {
 
 | | |
 |---|---|
-| 🔭 **Currently Building** | Scalable web solutions & AI automation tools at **Thirdwave Future Tech Ltd.** |
-| 🧠 **Domain Expertise** | High-conversion E-commerce, F-commerce Automation, AI Chatbots, CRM Architecture, RESTful API Integrations |
+| 🔭 **Currently Building** | Scalable web solutions & AI automation tools at **Thirdwave Future Tech Ltd.**, plus free language-learning PWAs (**Banglay German**, **Fluently**) |
+| 🧠 **Domain Expertise** | High-conversion E-commerce, F-commerce Automation, AI Chatbots, CRM Architecture, RESTful API Integrations, Progressive Web Apps, EdTech Platforms |
 | 🌱 **Always Learning** | Advanced Next.js paradigms, OpenAI LLM integrations, Webhooks, secure backend routing |
 | ⚡ **Superpower** | Translating complex physical retail showroom logistics into seamless, automated digital workflows |
-| 💬 **Ask Me About** | Next.js architecture, AI chatbot integrations, Meta Graph API |
+| 💬 **Ask Me About** | Next.js architecture, AI chatbot integrations, Meta Graph API, building PWAs |
 | 📫 **Reach Me** | talhabelal62@gmail.com |
 
 <br>
@@ -98,6 +98,42 @@ This shift changes what I actually spend my time on:
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🇩🇪 Banglay German</h3>
+      <p align="center">
+        <a href="https://banglaygerman.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Banglay German Live" />
+        </a>
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+      </p>
+      <p>A free German A1 learning platform built for Bengali speakers — structured, interactive, and installable on any device. Ideal for Goethe A1 prep and Ausbildung or higher-education aspirants.</p>
+      <ul>
+        <li><b>Listening:</b> 200+ everyday conversations with continuous autoplay.</li>
+        <li><b>Articles:</b> Color-coded der / die / das learning system.</li>
+        <li><b>Vocabulary:</b> 1,400+ words across 10 units, with Bangla &amp; English meanings and example sentences.</li>
+        <li><b>SRS:</b> SM-2-based spaced repetition for smart revision.</li>
+        <li><b>Practice Lab:</b> Sentence building, verb conjugation, article &amp; meaning quizzes, listening and typing challenges.</li>
+        <li><b>PWA:</b> Offline support, Add to Home Screen — no APK needed.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ Fluently</h3>
+      <p align="center">
+        <a href="https://fluently-5juy.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Fluently Live" />
+        </a>
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+      </p>
+      <p>A Progressive Web App for English learning, built around the <b>CEFR framework</b> — a structured journey from A1 Beginner to C1 Advanced.</p>
+      <ul>
+        <li><b>Curriculum:</b> 50 master modules covering A1, A2, B1, B2 and C1.</li>
+        <li><b>Learning Tools:</b> Vocabulary building, memory-based revision, voice-based practice.</li>
+        <li><b>Gamification:</b> XP, achievements, level progression, daily goals &amp; challenges.</li>
+        <li><b>Dashboard:</b> Interactive progress tracking.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><i>More builds in the pipeline — check back soon, or visit my pinned repos below. 👇</i></p>
@@ -127,6 +163,7 @@ This shift changes what I actually spend my time on:
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
@@ -159,12 +196,6 @@ This shift changes what I actually spend my time on:
 
 ## 📈&nbsp; GitHub Analytics & Activity
 
-<!--
-  Simple fix (no setup needed): using a less-crowded community mirror instead of
-  the overloaded official github-readme-stats.vercel.app instance. Same look, same
-  parameters — just a different, currently-healthier server. If this mirror ever
-  goes down too, swap the domain again; no code/setup change needed either way.
--->
 <div align="center">
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Talha's GitHub Stats"/>
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
@@ -182,22 +213,12 @@ This shift changes what I actually spend my time on:
   <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Talha0708&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-<!--
-  Uniqueness upgrade — animated contribution "snake" that eats your commit graph.
-  This is also a GitHub Action (runs on GitHub's own infra), so it never breaks.
-  1. In your Talha0708/Talha0708 repo, add .github/workflows/snake.yml with the
-     official Platane/snk action (search "github contribution snake action").
-  2. It generates snake.svg + snake-dark.svg on an "output" branch automatically.
-  3. Then embed it here, e.g.:
-     <img src="https://raw.githubusercontent.com/Talha0708/Talha0708/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
--->
-
 <br>
 
 ## 🤝&nbsp; Let's Build Something Together
 
 <div align="center">
-  <p>Open to collaborations on AI-driven commerce tools, CRM systems, and full-stack web projects.</p>
+  <p>Open to collaborations on AI-driven commerce tools, CRM systems, EdTech platforms, and full-stack web projects. Feedback on Banglay German and Fluently is always welcome!</p>
   <a href="mailto:talhabelal62@gmail.com">
     <img src="https://img.shields.io/badge/Let's_Talk-0f2027?style=for-the-badge&logo=maildotru&logoColor=white" alt="Let's Talk" />
   </a>
