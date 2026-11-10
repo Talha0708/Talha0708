@@ -70,41 +70,7 @@ My fundamentals in logic, architecture, and problem-solving are solid. What I ke
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Thirdwave CRM &amp; AI Moderator</h3>
-      <p align="center"><i>Personal project</i></p>
-      <p align="center">
-        <a href="https://thirdwave-crm-cu8c.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Thirdwave CRM live project" />
-        </a>
-      </p>
-      <p>A CRM prototype that integrates the <b>Meta Graph API</b> with AI-based intent parsing for incoming customer messages.</p>
-      <ul>
-        <li><b>AI:</b> Intent parsing for incoming messages.</li>
-        <li><b>Integrations:</b> Meta and WhatsApp webhooks.</li>
-        <li><b>Stack:</b> Next.js 14, MongoDB, Node.js, Vercel.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Aurelian Waves</h3>
-      <p align="center">
-        <a href="https://aurelian-ecommerce.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Store-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Aurelian Waves live store" />
-        </a>
-        <a href="https://www.facebook.com/aurelianwaves" target="_blank">
-          <img src="https://img.shields.io/badge/Brand_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Aurelian Waves Facebook page" />
-        </a>
-      </p>
-      <p>A fully functional e-commerce application built for smooth retail operations and a frictionless shopping experience.</p>
-      <ul>
-        <li><b>Frontend:</b> Responsive, custom-built for speed.</li>
-        <li><b>Retail:</b> Seamless cart and inventory flow.</li>
-        <li><b>Marketing:</b> Configured for ad tracking.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">🇩🇪 Banglay German</h3>
       <p align="center">
         <a href="https://banglaygerman.vercel.app/" target="_blank">
@@ -120,6 +86,23 @@ My fundamentals in logic, architecture, and problem-solving are solid. What I ke
         <li><b>SRS:</b> SM-2-based spaced repetition for smart revision.</li>
         <li><b>Practice Lab:</b> Sentence building, verb conjugation, article and meaning quizzes, listening and typing challenges.</li>
         <li><b>PWA:</b> Offline support and Add to Home Screen, with no APK needed.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Thirdwave CRM &amp; AI Moderator</h3>
+      <p align="center"><i>Personal project</i></p>
+      <p align="center">
+        <a href="https://thirdwave-crm-cu8c.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Project-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Thirdwave CRM live project" />
+        </a>
+      </p>
+      <p>A CRM prototype that integrates the <b>Meta Graph API</b> with AI-based intent parsing for incoming customer messages.</p>
+      <ul>
+        <li><b>AI:</b> Intent parsing for incoming messages.</li>
+        <li><b>Integrations:</b> Meta and WhatsApp webhooks.</li>
+        <li><b>Stack:</b> Next.js 14, MongoDB, Node.js, Vercel.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
