@@ -1,278 +1,367 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,45:102A36,100:0F766E&height=230&section=header&text=Talha%20Belal&fontSize=68&fontColor=F0FDFA&fontAlignY=42&desc=SOFTWARE%20%7C%20AI%20%7C%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=67&descColor=99F6E4" width="100%" alt="Talha Belal — Software, AI and Product Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,55:111827,100:78350F&height=240&section=header&text=TALHA%20BELAL&fontSize=68&fontColor=F8FAFC&fontAlignY=40&desc=ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20PRODUCTS&descSize=14&descAlignY=63&descColor=FDBA74" width="100%" alt="Talha Belal — Engineering, AI and Products" />
 
 <br>
 
-### Building useful technology. Turning ideas into products.
+<h3>Think Beyond the Interface. Build Beyond the Ordinary.</h3>
 
-**CSE Undergraduate · Full-Stack Development · AI-Powered Applications**
+<p>Computer Science & Engineering Undergraduate · Independent Product Builder</p>
+
+<p>
+  <a href="https://github.com/Talha0708">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/talha-belal-6a52371b6/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:talhabelal62@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=FDBA74" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://linkedin.com/in/talha-belal-6a52371b6/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B1727?style=for-the-badge&logo=linkedin&logoColor=67E8D2" alt="LinkedIn" />
-</a>
-<a href="mailto:talhabelal62@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B1727?style=for-the-badge&logo=gmail&logoColor=67E8D2" alt="Email" />
-</a>
-<a href="https://github.com/Talha0708">
-  <img src="https://img.shields.io/badge/GITHUB-0B1727?style=for-the-badge&logo=github&logoColor=67E8D2" alt="GitHub" />
-</a>
+**OBSERVE → QUESTION → ENGINEER → BUILD → EVOLVE**
 
-<br><br>
+<br>
 
-<a href="#selected-work">Selected Work</a> &nbsp; · &nbsp;
-<a href="#engineering">Engineering</a> &nbsp; · &nbsp;
-<a href="#technology">Technology</a> &nbsp; · &nbsp;
-<a href="#github-activity">GitHub Activity</a> &nbsp; · &nbsp;
-<a href="#connect">Connect</a>
+<a href="#mission">MISSION</a> &nbsp; ◈ &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; ◈ &nbsp;
+<a href="#blueprints">BLUEPRINTS</a> &nbsp; ◈ &nbsp;
+<a href="#technology">TECHNOLOGY</a> &nbsp; ◈ &nbsp;
+<a href="#activity">ACTIVITY</a> &nbsp; ◈ &nbsp;
+<a href="#connect">CONNECT</a>
 
 </div>
 
 ---
 
-## 01 — Profile
+<a id="mission"></a>
 
-I'm a Computer Science & Engineering undergraduate at **Primeasia University**, interested in building practical software at the intersection of web technologies, artificial intelligence, and education.
+# 01 / THE MISSION
 
-I enjoy turning ideas into working products — from full-stack web applications and business automation systems to accessible learning platforms.
+### Building technology with purpose.
 
-My approach is simple:
+I'm Talha Belal, a Computer Science & Engineering undergraduate at **Primeasia University**, exploring the intersection of software engineering, artificial intelligence, and product innovation.
 
-> **Understand the problem. Design the system. Build the solution. Improve through iteration.**
+I believe technology should do more than look impressive. It should solve meaningful problems, simplify complex processes, and create opportunities that did not previously exist.
 
-Currently exploring full-stack architecture, AI integrations, API-driven systems, and progressive web applications while strengthening my foundations in software engineering.
+My work revolves around turning ideas into functional products — from intelligent business systems and automation workflows to accessible educational platforms.
 
-### Areas of Interest
+**My long-term direction:**
 
-| Area | What I'm Exploring |
+Build meaningful technology, develop strong engineering foundations, and contribute to products that make a measurable difference.
+
+> "Don't just learn how technology works. Learn how to use it to change what is possible."
+
+### ENGINEERING INTERESTS
+
+| DOMAIN | DIRECTION |
 |:---|:---|
-| **Full-Stack Engineering** | React, Next.js, Node.js, backend architecture |
-| **AI & Automation** | AI-powered workflows, chatbots, intelligent integrations |
-| **Product Engineering** | SaaS platforms, CRM systems, business tools |
-| **EdTech** | Interactive learning experiences and educational PWAs |
-| **System Design** | API architecture, webhooks, data flow and application structure |
+| Software Engineering | Full-stack applications and scalable architecture |
+| Artificial Intelligence | AI-powered products, automation and intelligent workflows |
+| Product Development | Turning real-world problems into useful software |
+| Systems & Infrastructure | APIs, data processing and application design |
+| Education Technology | Making quality learning tools more accessible |
 
 ---
 
-## 02 — Selected Work
+<a id="projects"></a>
 
-*Ideas designed to solve real problems.*
+# 02 / SELECTED PROJECTS
 
-### 🇩🇪 Banglay German
+### From concept to working software.
 
-**Making German language learning accessible to Bengali speakers.**
+The best way to demonstrate engineering is to show what you build.
+
+## 01 — BANGLAY GERMAN
+
+**Breaking language barriers through technology.**
 
 <a href="https://banglaygerman.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Banglay German" />
+  <img src="https://img.shields.io/badge/ACCESS_PLATFORM-18181B?style=for-the-badge&logo=vercel&logoColor=FDBA74" alt="Open Banglay German" />
 </a>
-<img src="https://img.shields.io/badge/PROGRESSIVE_WEB_APP-102A36?style=for-the-badge&logo=pwa&logoColor=67E8D2" alt="Progressive Web App" />
 
-A structured German A1 learning platform designed around Bengali explanations, interactive practice, and memory-based revision.
+<img src="https://img.shields.io/badge/1,400%2B_VOCABULARY_WORDS-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/200%2B_LISTENING_CONVERSATIONS-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/PWA-292524?style=flat-square" />
 
-**Inside the platform**
+A structured German A1 learning ecosystem designed specifically for Bengali-speaking learners.
 
-- 1,400+ vocabulary words across 10 learning units.
-- 200+ everyday listening conversations.
-- German article learning: der, die, das.
-- SM-2-based spaced repetition for vocabulary revision.
-- Interactive grammar, sentence-building, listening and typing exercises.
-- Installable PWA with offline support.
+**Core engineering features**
 
-**Product vision:** Make structured German learning more accessible to Bengali-speaking learners preparing for language examinations, Ausbildung, and higher education.
+- Structured vocabulary system with Bangla and English translations.
+- 200+ practical German listening conversations.
+- Interactive der / die / das learning system.
+- SM-2-based spaced repetition and revision logic.
+- Grammar, sentence construction and listening exercises.
+- Installable Progressive Web App with offline support.
+
+**The problem:** Language learners often struggle with fragmented resources, complicated explanations, and inconsistent practice.
+
+**The approach:** Combine structured learning, native-language explanations, and memory-based revision into one accessible platform.
 
 ---
 
-### 🗣️ Fluently
+## 02 — FLUENTLY
 
-**A structured journey towards confident English communication.**
+**Building a better path to language proficiency.**
 
 <a href="https://fluently-5juy.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Fluently" />
+  <img src="https://img.shields.io/badge/ACCESS_PLATFORM-18181B?style=for-the-badge&logo=vercel&logoColor=FDBA74" alt="Open Fluently" />
 </a>
-<img src="https://img.shields.io/badge/PWA-102A36?style=for-the-badge&logo=pwa&logoColor=67E8D2" alt="Progressive Web App" />
 
-An interactive English-learning PWA built around a structured CEFR learning path.
+<img src="https://img.shields.io/badge/50_LEARNING_MODULES-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/A1_TO_C1-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/PWA-292524?style=flat-square" />
 
-**Key capabilities**
+An interactive English learning platform following a structured CEFR progression.
 
-- 50 learning modules across A1, A2, B1, B2, and C1.
+**Core engineering features**
+
+- 50 learning modules spanning A1 to C1.
 - Vocabulary development and memory-based revision.
 - Voice-based learning practice.
-- XP, achievements, level progression and daily goals.
-- Personal learning dashboard and progress tracking.
+- Gamification with XP, achievements and daily goals.
+- Learning dashboard and progress tracking.
+- Progressive Web App experience.
 
-**Product vision:** Turn independent language learning into a structured and engaging experience.
+**The vision:** Make independent language learning more organized, measurable, and engaging.
 
 ---
 
-### ⚙️ Thirdwave CRM & AI Moderator
+## 03 — THIRDWAVE CRM & AI MODERATOR
 
-**Exploring intelligent customer communication and business automation.**
+**Exploring intelligent business communication.**
 
 <a href="https://thirdwave-crm-cu8c.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="View Thirdwave CRM" />
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-18181B?style=for-the-badge&logo=vercel&logoColor=FDBA74" alt="Open Thirdwave CRM" />
 </a>
-<img src="https://img.shields.io/badge/CRM_PROTOTYPE-102A36?style=for-the-badge&logo=probot&logoColor=67E8D2" alt="CRM Prototype" />
 
-A CRM prototype exploring how AI can help businesses understand and organize incoming customer communications.
+<img src="https://img.shields.io/badge/AI_INTEGRATION-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/META_GRAPH_API-292524?style=flat-square" />
+<img src="https://img.shields.io/badge/CRM_PROTOTYPE-292524?style=flat-square" />
 
-**Technical highlights**
+A CRM prototype exploring AI-assisted customer message processing and business automation.
 
-- AI-assisted intent parsing for incoming messages.
+**Core engineering features**
+
+- AI-powered intent analysis for incoming messages.
 - Meta Graph API integration.
-- Webhook-based communication workflows.
-- MongoDB-backed data handling.
-- Next.js application architecture.
+- Webhook-driven message processing.
+- MongoDB data management.
+- Next.js API architecture.
+- CRM dashboard concept.
 
-**Technology:** Next.js 14 · Node.js · MongoDB · Meta Graph API · Webhooks
-
----
-
-## 03 — Engineering & System Thinking
-
-*I am interested in understanding how software systems work beyond the user interface.*
-
-### Thirdwave — Message Processing Architecture
-
-```mermaid
-flowchart TD
-    A["Customer Message"] --> B["Meta / WhatsApp Webhook"]
-    B --> C["Next.js API Layer"]
-    C --> D["AI Intent Processing"]
-    D --> E["MongoDB"]
-    E --> F["CRM Dashboard"]
-
-    style A fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style B fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style C fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style D fill:#134E4A,stroke:#5EEAD4,color:#F0FDFA
-    style E fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style F fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-```
-
-The idea is to receive customer messages, process them through an API layer, identify intent using AI, and organize the resulting information inside a CRM.
-
-### Banglay German — Spaced Repetition
-
-```mermaid
-flowchart TD
-    A["Learn a New Word"] --> B["Scheduled Review"]
-    B --> C{"Remembered?"}
-    C -->|No| D["Review Again Sooner"]
-    C -->|Yes| E["Increase Review Interval"]
-    D --> F["Schedule Next Review"]
-    E --> F
-    F --> B
-
-    style A fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style B fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style C fill:#134E4A,stroke:#5EEAD4,color:#F0FDFA
-    style D fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style E fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-    style F fill:#102A36,stroke:#2DD4BF,color:#F0FDFA
-```
-
-The learning logic is simple: forgotten words return sooner, while successfully recalled words receive longer review intervals.
+**The vision:** Reduce repetitive communication tasks and help businesses manage customer interactions more intelligently.
 
 ---
 
-## 04 — Engineering Mindset
+<a id="blueprints"></a>
 
-**How I approach building software**
+# 03 / SYSTEM BLUEPRINTS
 
-| Principle | Approach |
+### Understanding the architecture behind the products.
+
+I believe good engineering starts with understanding how components communicate, how data moves, and how individual components form a complete system.
+
+### Blueprint A — Intelligent CRM Processing
+
+```mermaid
+flowchart TD
+    U["CUSTOMER"] --> M["META / WHATSAPP"]
+    M --> W["WEBHOOK LAYER"]
+    W --> A["APPLICATION API"]
+    A --> AI["AI INTENT ENGINE"]
+    AI --> DB[("MONGODB")]
+    DB --> D["CRM DASHBOARD"]
+
+    style U fill:#18181B,stroke:#F59E0B,color:#fff
+    style M fill:#18181B,stroke:#F59E0B,color:#fff
+    style W fill:#18181B,stroke:#F59E0B,color:#fff
+    style A fill:#18181B,stroke:#F59E0B,color:#fff
+    style AI fill:#78350F,stroke:#FBBF24,color:#fff
+    style DB fill:#18181B,stroke:#F59E0B,color:#fff
+    style D fill:#18181B,stroke:#F59E0B,color:#fff
+```
+
+**Engineering concept:** Incoming messages → API processing → AI-assisted intent analysis → persistent storage → CRM interface.
+
+### Blueprint B — Intelligent Vocabulary Revision
+
+```mermaid
+flowchart TD
+    A["NEW VOCABULARY"] --> B["INITIAL LEARNING"]
+    B --> C["REVIEW SCHEDULER"]
+    C --> D{"RECALL SUCCESSFUL?"}
+    D -->|NO| E["REVIEW SOONER"]
+    D -->|YES| F["EXTEND INTERVAL"]
+    E --> G["UPDATE SCHEDULE"]
+    F --> G
+    G --> C
+
+    style A fill:#18181B,stroke:#F59E0B,color:#fff
+    style B fill:#18181B,stroke:#F59E0B,color:#fff
+    style C fill:#18181B,stroke:#F59E0B,color:#fff
+    style D fill:#78350F,stroke:#FBBF24,color:#fff
+    style E fill:#18181B,stroke:#F59E0B,color:#fff
+    style F fill:#18181B,stroke:#F59E0B,color:#fff
+    style G fill:#18181B,stroke:#F59E0B,color:#fff
+```
+
+**Engineering concept:** Learning should be adaptive. Review frequency changes based on recall performance.
+
+---
+
+# 04 / ENGINEERING PHILOSOPHY
+
+### First principles. Clear thinking. Practical execution.
+
+| PRINCIPLE | HOW I APPROACH IT |
 |:---|:---|
-| Problem First | Understand the actual user problem before choosing a technology. |
-| Systems Thinking | Think about data flow, integrations, maintainability, and architecture. |
-| AI as a Tool | Use AI assistants to explore solutions, accelerate implementation, and learn. |
-| Iterative Development | Build, test, identify weaknesses, and improve. |
-| User-Centred Design | Prioritize accessibility, clarity, and practical value. |
+| First Principles | Break complex problems into smaller fundamentals. |
+| Systems Thinking | Understand the entire system, not just individual features. |
+| Experimentation | Explore unconventional approaches and test assumptions. |
+| Continuous Learning | Improve through implementation, feedback and iteration. |
+| Real-World Impact | Prioritize useful outcomes over unnecessary complexity. |
 
-I use AI-assisted development tools such as ChatGPT, Gemini, Claude, and Qwen as collaborators in research, debugging, prototyping, and development.
+### My Development Loop
+
+```text
+        PROBLEM
+           |
+           v
+     RESEARCH & THINK
+           |
+           v
+      SYSTEM DESIGN
+           |
+           v
+        BUILD
+           |
+           v
+    TEST & EVALUATE
+           |
+           v
+        ITERATE
+           |
+           └──────────> IMPROVE
+```
+
+I use AI-assisted development tools including ChatGPT, Gemini, Claude, and Qwen to support research, debugging, experimentation, and implementation.
+
+AI accelerates the process. Understanding the system remains essential.
 
 ---
 
-## 05 — Technology
+<a id="technology"></a>
 
-*Tools and technologies I work with and continue to explore.*
+# 05 / TECHNOLOGY & TOOLS
 
-**Frontend & Application Development**
+### My current engineering ecosystem.
+
+**Frontend Engineering**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,pwa" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="HTML CSS JavaScript React Next.js Tailwind" />
 </p>
 
-**Backend & Database**
+**Backend & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB" />
 </p>
 
 **AI & Integrations**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openai,googleai,postman" alt="AI and API tools" />
+  <img src="https://skillicons.dev/icons?i=openai,googleai,postman" alt="AI and API tooling" />
+  <br>
+  <img src="https://img.shields.io/badge/META_GRAPH_API-1877F2?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/WEBHOOKS-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/PROGRESSIVE_WEB_APPS-18181B?style=flat-square" />
 </p>
 
-**Development Tools & Platforms**
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git GitHub VS Code Vercel" />
 </p>
+
+*This represents technologies I work with and continue to explore, not a claim of mastery in every tool.*
 
 ---
 
-## 06 — GitHub Activity
+<a id="activity"></a>
+
+# 06 / ENGINEERING ACTIVITY
+
+### The journey is ongoing.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF" alt="Most used languages" />
 
-<br>
+<br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha0708&bg_color=00000000&color=94A3B8&line=2DD4BF&point=5EEAD4&area=true&hide_border=true" alt="GitHub contribution activity" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha0708&bg_color=00000000&color=9CA3AF&line=F59E0B&point=FBBF24&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## 07 — Beyond the Code
+# 07 / THE ROAD AHEAD
 
-I believe good engineering is not only about writing code. It is also about identifying meaningful problems, learning continuously, and building solutions that people can actually use.
+### Bigger problems. Better solutions.
 
-Currently interested in collaborating on:
+My long-term interests extend beyond individual applications.
 
-- AI-powered applications and automation.
-- Full-stack web applications.
-- Educational technology and learning platforms.
-- Open-source projects and innovative product ideas.
+I want to explore:
+
+- Intelligent software systems powered by AI.
+- Automation that makes businesses more efficient.
+- Educational technology with meaningful social impact.
+- Scalable product architecture and reliable infrastructure.
+- Experimental engineering and new product concepts.
+
+**Not interested in building for attention. Interested in building things that matter.**
 
 ---
 
-## 08 — Let's Connect
+<a id="connect"></a>
 
-**Have an interesting idea, a technical challenge, or a project worth building?**
-
-I'm open to meaningful conversations, collaboration, and opportunities to learn and contribute.
+# 08 / INITIATE CONTACT
 
 <div align="center">
 
+### Have a problem worth solving?
+
+I'm open to connecting with developers, engineers, founders, researchers, and builders who enjoy creating meaningful technology.
+
+<br>
+
 <a href="mailto:talhabelal62@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Talha" />
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-F59E0B?style=for-the-badge&logo=gmail&logoColor=111827" alt="Contact by email" />
 </a>
+
 <a href="https://linkedin.com/in/talha-belal-6a52371b6/">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-102A36?style=for-the-badge&logo=linkedin&logoColor=67E8D2" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/CONNECT-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br><br>
 
-**Talha Belal**  
-*Computer Science & Engineering · Primeasia University*
+**TALHA BELAL**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:102A36,100:07111F&height=110&section=footer" width="100%" alt="" />
+`COMPUTER SCIENCE & ENGINEERING`
+
+<sub>THINK DEEPLY. BUILD INTELLIGENTLY. KEEP EVOLVING.</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350F,50:111827,100:05070B&height=100&section=footer" width="100%" alt="" />
 
 </div>
