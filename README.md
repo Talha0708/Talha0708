@@ -2,23 +2,40 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Talha%20Belal&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20Automation%20%7C%20EdTech&descAlignY=62&descSize=20&descAlign=50" width="100%" alt="Talha Belal — Junior Full-Stack Developer, AI Automation, EdTech" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&height=50&lines=Building+business+systems%2C+not+just+websites;Full-stack+with+MERN+and+Next.js;AI+automation+%26+agentic+workflows;Free%2C+installable+EdTech+PWAs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=2C5364&center=true&vCenter=true&width=640&height=50&lines=Building+business+systems%2C+not+just+websites;Full-stack+with+MERN+and+Next.js;AI+automation+%26+agentic+workflows;Free%2C+installable+EdTech+PWAs" alt="Building business systems, not just websites" />
+</picture>
+
 <p>
   <i>Computer Science &amp; Engineering undergraduate · Primeasia University</i><br>
   I build AI-powered commerce tools and free, installable learning apps.
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/talha-belal-6a52371b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:talhabelal62@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://banglaygerman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Banglay_German-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Banglay German live app" /></a>
-  <a href="https://fluently-5juy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Fluently-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Fluently live app" /></a>
+  <a href="https://linkedin.com/in/talha-belal-6a52371b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:talhabelal62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://banglaygerman.vercel.app/"><img src="https://img.shields.io/badge/Banglay_German-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Banglay German live app" /></a>
+  <a href="https://fluently-5juy.vercel.app/"><img src="https://img.shields.io/badge/Fluently-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Fluently live app" /></a>
+</p>
+
+<p>
+  <a href="#about">About</a> &nbsp;|&nbsp;
+  <a href="#projects">Projects</a> &nbsp;|&nbsp;
+  <a href="#under-the-hood">Under the hood</a> &nbsp;|&nbsp;
+  <a href="#stack">Stack</a> &nbsp;|&nbsp;
+  <a href="#activity">Activity</a> &nbsp;|&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 </div>
 
+> [!TIP]
+> **Try the apps on your phone.** Banglay German and Fluently are free PWAs. Open either link, tap **Add to Home Screen**, and you're set. No APK needed.
+
 <br>
 
-## 👋&nbsp; About
+## <a id="about"></a>👋&nbsp; About
 
 I'm a Computer Science &amp; Engineering undergraduate focused on full-stack development with the **MERN stack** and **Next.js**. Hands-on experience in retail operations shapes how I build: I make **business systems, not just websites**. That means commerce infrastructure, workflows that stop leads from slipping through the cracks, and AI-assisted customer experiences backed by solid API integrations.
 
@@ -33,16 +50,23 @@ I also build **accessible EdTech**: free, installable language-learning PWAs for
 
 <br>
 
-## 🚀&nbsp; Featured Projects
+## <a id="projects"></a>🚀&nbsp; Featured Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/200%2B-Listening_Conversations-2c5364?style=for-the-badge&labelColor=203a43" alt="200+ listening conversations" />
+  <img src="https://img.shields.io/badge/1%2C400%2B-Vocabulary_Words-2c5364?style=for-the-badge&labelColor=203a43" alt="1,400+ vocabulary words" />
+  <img src="https://img.shields.io/badge/50-CEFR_Modules-2c5364?style=for-the-badge&labelColor=203a43" alt="50 CEFR modules" />
+  <img src="https://img.shields.io/badge/2-Free_PWAs-2c5364?style=for-the-badge&labelColor=203a43" alt="2 free PWAs" />
+</p>
 
 <table>
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🇩🇪 Banglay German</h3>
-      <p align="center"><i>Free German A1 platform for Bengali speakers</i></p>
+      <p align="center"><i>Free German A1 platform for Bengali speakers · বাংলায় জার্মান</i></p>
       <p align="center">
-        <a href="https://banglaygerman.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Banglay German live app" />
+        <a href="https://banglaygerman.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_App-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Banglay German live app" />
         </a>
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
       </p>
@@ -55,6 +79,7 @@ I also build **accessible EdTech**: free, installable language-learning PWAs for
         <li><b>Practice Lab:</b> Sentence building, verb conjugation, article and meaning quizzes, listening and typing challenges.</li>
         <li><b>PWA:</b> Offline support and Add to Home Screen, no APK needed.</li>
       </ul>
+      <p align="center"><a href="#revision-loop">See how the revision loop works</a></p>
     </td>
   </tr>
   <tr>
@@ -62,8 +87,8 @@ I also build **accessible EdTech**: free, installable language-learning PWAs for
       <h3 align="center">🗣️ Fluently</h3>
       <p align="center"><i>CEFR-based English learning</i></p>
       <p align="center">
-        <a href="https://fluently-5juy.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Fluently live app" />
+        <a href="https://fluently-5juy.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_App-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Fluently live app" />
         </a>
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
       </p>
@@ -79,8 +104,8 @@ I also build **accessible EdTech**: free, installable language-learning PWAs for
       <h3 align="center">⚙️ Thirdwave CRM &amp; AI Moderator</h3>
       <p align="center"><i>Personal project</i></p>
       <p align="center">
-        <a href="https://thirdwave-crm-cu8c.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Thirdwave CRM live project" />
+        <a href="https://thirdwave-crm-cu8c.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Project-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Thirdwave CRM live project" />
         </a>
       </p>
       <p>A CRM prototype that integrates the <b>Meta Graph API</b> with AI-based intent parsing for incoming customer messages.</p>
@@ -89,11 +114,54 @@ I also build **accessible EdTech**: free, installable language-learning PWAs for
         <li><b>Integrations:</b> Meta and WhatsApp webhooks.</li>
         <li><b>Stack:</b> Next.js 14, MongoDB, Node.js, Vercel.</li>
       </ul>
+      <p align="center"><a href="#message-pipeline">See how the message pipeline works</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center"><i>More builds are in the pipeline. See my pinned repositories for what's next.</i></p>
+
+<br>
+
+## <a id="under-the-hood"></a>🧠&nbsp; Under the Hood
+
+I like showing how a system fits together, not only what it looks like. Here are two maps from my projects.
+
+### <a id="message-pipeline"></a>Thirdwave: from customer message to CRM
+
+```mermaid
+flowchart LR
+    M["Meta webhook<br/>Graph API"] --> API["Next.js API routes<br/>on Vercel"]
+    W["WhatsApp webhook"] --> API
+    API --> AI["AI intent parsing"]
+    AI --> DB[("MongoDB")]
+    DB --> UI["CRM dashboard"]
+
+    classDef entry fill:#2c5364,stroke:#203a43,color:#ffffff
+    classDef core fill:#0f2027,stroke:#2c5364,color:#ffffff
+    class M,W,UI entry
+    class API,AI,DB core
+```
+
+Incoming messages arrive through Meta and WhatsApp webhooks, get parsed for intent, and land in the CRM.
+
+### <a id="revision-loop"></a>Banglay German: the smart revision loop
+
+```mermaid
+flowchart LR
+    A["New word"] --> B["Review when due"]
+    B --> C{"Recalled it?"}
+    C -->|"No"| D["Restart the interval"]
+    C -->|"Yes"| E["Grow the interval<br/>by the ease factor"]
+    D --> F["Schedule the next review"]
+    E --> F
+    F --> B
+
+    classDef core fill:#0f2027,stroke:#2c5364,color:#ffffff
+    class A,B,D,E,F core
+```
+
+Words you forget come back sooner. Words you know come back later. That's the idea behind SM-2.
 
 <br>
 
@@ -107,32 +175,51 @@ I work in an **AI-augmented workflow**, using Claude, Gemini, ChatGPT, and Qwen 
 
 <br>
 
-## 🛠️&nbsp; Tech Stack
+## <a id="stack"></a>🛠️&nbsp; Tech Stack
 
 | Category | Tools |
 |---|---|
 | 💻 **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> |
 | ⚙️ **Backend, Database & CMS** | <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Contentful-2D7CBF?style=flat-square&logo=contentful&logoColor=white" alt="Contentful CMS"/> |
-| 🤖 **AI & Integrations** | <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/RESTful_APIs-005C84?style=flat-square&logo=api&logoColor=white" alt="REST API"/> <img src="https://img.shields.io/badge/Webhooks-0f2027?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks"/> <img src="https://img.shields.io/badge/Meta_Graph_API-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Graph API"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API"/> |
+| 🤖 **AI & Integrations** | <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/RESTful_APIs-005C84?style=flat-square&logo=api&logoColor=white" alt="REST API"/> <img src="https://img.shields.io/badge/Webhooks-2c5364?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks"/> <img src="https://img.shields.io/badge/Meta_Graph_API-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Graph API"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API"/> |
 | 🧰 **Tools & Platforms** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/> |
 
 <br>
 
-## 📈&nbsp; GitHub Stats
+## <a id="activity"></a>📈&nbsp; GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Talha's GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" alt="Top languages used"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Talha0708&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Talha's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Talha0708&layout=compact&langs_count=6&theme=default&hide_border=true&cache_seconds=1800" alt="Top languages used" />
+</picture>
+
+<!--
+  The snake is generated from your own contribution graph by .github/workflows/snake.yml
+  and published to the "output" branch of this repo. If your profile repo is not named
+  Talha0708/Talha0708, change the two URLs below.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha0708/Talha0708/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha0708/Talha0708/output/github-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/Talha0708/Talha0708/output/github-snake.svg" />
+</picture>
+
 </div>
 
 <br>
 
-## 🤝&nbsp; Let's Work Together
+## <a id="contact"></a>🤝&nbsp; Let's Work Together
 
 <div align="center">
   <p>Open to collaboration on AI-driven commerce tools, CRM systems, EdTech platforms, and full-stack web projects.<br>Feedback on Banglay German and Fluently is always welcome.</p>
   <a href="mailto:talhabelal62@gmail.com">
-    <img src="https://img.shields.io/badge/Get_in_touch-0f2027?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in touch by email" />
+    <img src="https://img.shields.io/badge/Get_in_touch-2c5364?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in touch by email" />
   </a>
   <a href="https://linkedin.com/in/talha-belal-6a52371b6/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
